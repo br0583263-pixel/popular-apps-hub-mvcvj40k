@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">מרכז האפליקציות</string>
+    <string name="search_hint">חיפוש אפליקציה...</string>
+    <string name="cat_all">הכל</string>
+    <string name="cat_favorites">⭐ מועדפים</string>
+    <string name="cat_social">רשתות וחברה</string>
+    <string name="cat_media">בידור ומדיה</string>
+    <string name="cat_tools">פרודוקטיביות וכלי עבודה</string>
+    <string name="cat_nav">ניווט ותחבורה</string>
+    <string name="cat_shopping">קניות ותשלומים</string>
+    <string name="cat_installed">מותקנות במכשיר</string>
+    <string name="status_installed">פתח אפליקציה</string>
+    <string name="status_get">הורדה מ-Google Play</string>
+    <string name="status_badge_installed">מותקן במכשיר</string>
+    <string name="status_badge_store">זמין להורדה</string>
+    <string name="no_results">לא נמצאו אפליקציות תואמות</string>
+    <string name="apps_found_suffix">אפליקציות נמצאו</string>
+</resources>
